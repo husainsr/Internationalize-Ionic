@@ -6,10 +6,10 @@
 ```bash
    1.)npm install.
   ```
-  ```bash
+```bash
    2.)npm install ng2-translate --save
   ```
-  ```bash
+```bash
    3.)npm install @ngx-translate/core --save
 ```
 
